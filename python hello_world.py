@@ -1,1 +1,3 @@
-print("Estoy probando caracteres especiales")
+print("Estoy probando eliminar espacios")
+
+print("Hello Nel")
